@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スキンズ - Skins",
+  "base_artist": "ASIAN KUNG-FU GENERATION",
+  "createdAt": "2026-04-03T04:25:59.364487Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スキンズ",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/pl_01_スキンズ_ASIAN_KUNG-FU_GENERATION.txt"
+    }
+  ]
+}
